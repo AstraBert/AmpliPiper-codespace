@@ -15,6 +15,8 @@
 
 This README provides a quickstart to the pipeline: if you want to dive deeper, check out the [complete_documentation](https://astrabert.github.io/AmpliPiper-docs/).
 
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/AstraBert/AmpliPiper-codespace)
+
 ### Workflow
 
 <div align="center">
